@@ -1,13 +1,11 @@
-# Proyecto: NUEVA EXPERIENCIA EN EMPRESAS DE BUSES
+# VIAGGIO
+"Viaggio" es un website que ayuda a realizar comparaciones de los servicios que ofrecen distintas empresas de buses interprovinciales con un destino en común.
 
-## Equipo Ying-Yang Design
+![visualizacion-01](https://raw.githubusercontent.com/NatalyCortez/reto-buses/master/assets/images/1-inicio.jpg)
 
-* Nataly Cortez
-* Karina Buhezo
-* Andrea Encarnación
-* Isabel Chávez
-* Shannon Rivera
-* Ada Yajahuanca
+## Desarrollado para
+ [Laboratoria](http://laboratoria.la)
+
 
 ### EL RETO:
 Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Durante sus últimas vacaciones Catalina estuvo viajando por todo latinoamérica. Durante estos viajes Catalina tuvo que tomar muchos buses de todo tipo para llegar a ver los paisajes más lindos del continente.
@@ -578,3 +576,12 @@ Se realiza presentación con el flujo del trabajo desarrollado.
 [Presentación Final](https://docs.google.com/presentation/d/1yRGp3TjwR7x2dM53hoJHe_-OIhtQG-dCog9ebjoAkeM/edit?usp=sharin)
 
 ![Presentación](/assets/images/present-final.png)
+
+## Equipo Ying-Yang Design
+
+* Nataly Cortez
+* Karina Buhezo
+* Andrea Encarnación
+* Isabel Chávez
+* Shannon Rivera
+* Ada Yajahuanca
