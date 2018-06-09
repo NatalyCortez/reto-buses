@@ -1,7 +1,8 @@
 # VIAGGIO
 "Viaggio" es un website que ayuda a realizar comparaciones de los servicios que ofrecen distintas empresas de buses interprovinciales con un destino en común.
 
-![visualizacion-01](https://raw.githubusercontent.com/NatalyCortez/reto-buses/master/assets/images/1-inicio.jpg)
+![visualizacion-01]![viaggio](https://user-images.githubusercontent.com/32307227/41189543-22c5fab4-6b95-11e8-824f-e4ba660e1a50.jpg)
+
 
 ## Desarrollado para
  [Laboratoria](http://laboratoria.la)
